@@ -23,7 +23,7 @@ I enjoy turning ideas into simple, usable web applications using core web techno
 ---
 
 ## 🔗 Profiles & Links
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
+- **GitHub:** https://github.com/DonnieDarsshan 
 - **LeetCode:** https://leetcode.com/u/DonnieDarsshan/  
 - **LinkedIn:** https://www.linkedin.com/in/darsshan-tn-775196252/
 
