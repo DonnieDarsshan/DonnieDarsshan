@@ -1,4 +1,4 @@
-# Hi, I'm Darsshan TN 👋
+# Hi, I'm DARSSHAN TN 👋
 
 ### Software Developer | Browser-Based Tools | DSA Learner
 
