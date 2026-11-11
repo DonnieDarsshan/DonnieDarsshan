@@ -15,7 +15,7 @@ Architected, engineered, and deployed a comprehensive, **11-application enterpri
 Instead of navigating standalone repositories, visit the centralized web portal housing all modules in one unified, high-performance interface:
 
 [![Launch Live Portal](https://img.shields.io/badge/Live_Portal-Launch_Astrological_Suite-082f49?style=for-the-badge&logo=vercel&logoColor=white)](https://donniedarsshan.github.io/Astrological-Suite/)  
-👉 https://donniedarsshan.github.io/Astrological-Suite/
+👉 [**Open Astrological Suite Portal** ↗](https://donniedarsshan.github.io/Astrological-Suite/) *(Use middle-click or `Ctrl`/`Cmd` + Click to open in a new tab)*
 
 **The portal includes 11 interconnected calculation engines:**
 - **Vedic Vargas & Cuspal Interlink:** Deep planetary strength analytics and high-precision sub-lord mapping.
