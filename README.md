@@ -9,19 +9,18 @@ Beyond core fundamentals, I independently architect and deploy commercial-grade,
 ---
 
 ## 🚀 Flagship Production Ecosystem: Enterprise Astrological Suite
-Architected, engineered, and deployed a comprehensive, **11-application enterprise computational suite** hosted live on **Vercel**. Built to commercial industry standards, this ecosystem processes complex astronomical ephemeris data, multi-layered divisional algorithms, and real-time transit geometry directly in the browser.
 
-### 🌌 Core Modules & Live Deployments
-- **[Vedic Vargas](https://vedic-vargas-promax.vercel.app/):** Advanced divisional chart engines (D1–D60), Shadbala matrices, and deep planetary strength analytics.
-- **[Cuspal Interlink](https://cuspal-interlink-promax.vercel.app/):** High-precision sub-lord interlink computation and multi-house signification mapping framework.
-- **[Parashari & Jaimini](https://parashari-jaimini-kp.vercel.app/):** Dual-engine computational framework featuring Chara Dasha algorithms and classical Parashari rules.
-- **[KP Significators](https://kp-significators.vercel.app/):** Krishnamurti Paddhati star-lord and sub-lord planetary signification engine.
-- **[Nakshatra Nadi & Western](https://nakshatra-nadi-western-asp.vercel.app/):** Stellar astrology integration combined with exact Western longitudinal aspect geometry.
-- **[Akshaya Lagna Paddathi (ALP)](https://akshaya-lagna-paddathi.vercel.app/):** Progressed ascendant computational model for micro-timing life events.
-- **[Bhrigu Nandi Nadi](https://bhrigu-nandi-nadi.vercel.app/):** Directional planetary conjunctions and Nadi transit prediction engine.
-- **[Vivaha Matching](https://vivaha-matching-tool.vercel.app/):** Automated Ashtakoota and Dashakoota synastry compatibility calculator.
-- **[Transit Calculator](https://astrological-transit-calculator.vercel.app/) & [Transit Natal Overlap](https://transit-natal-overlap-chart.vercel.app/):** Real-time Gochara tracking and dynamic bi-wheel chart superimposition.
-- **[Jyotish vs. Math Age Calculator](https://age-calculator-math-vs-jyotish.vercel.app/):** Precision solar vs. lunar chronological calculation utility.
+Architected, engineered, and deployed a comprehensive, **11-application enterprise computational suite**. Built to commercial industry standards, this ecosystem processes complex astronomical ephemeris data, multi-layered divisional algorithms, and real-time transit geometry directly in the browser. 
+
+Instead of standalone repositories, I built a centralized, modern web portal to house all modules in one unified, high-performance interface.
+
+👉 <a href="https://donniedarsshan.github.io/Astrological-Suite/" target="_blank">**Explore the Enterprise Astrological Suite Live Portal**</a> *(Opens in new tab)*
+
+**The portal includes 11 interconnected calculation engines:**
+* **Vedic Vargas & Cuspal Interlink:** Deep planetary strength analytics and high-precision sub-lord mapping.
+* **Parashari, Jaimini & KP Significators:** Dual-engine frameworks for traditional rules and Krishnamurti Paddhati star-lord computations.
+* **Nakshatra Nadi, Bhrigu Nandi Nadi & ALP:** Stellar integrations, exact transit prediction models, and progressed ascendant micro-timing.
+* **Transit & Synastry Engines:** Real-time Gochara bi-wheel superimposition, math vs. Jyotish age calculators, and automated Vivaha (marriage) compatibility matrices.
 
 ---
 
@@ -29,14 +28,14 @@ Architected, engineered, and deployed a comprehensive, **11-application enterpri
 - **Languages:** Java, JavaScript (ES6+), HTML5, CSS3  
 - **Styling & UI:** Tailwind CSS, Modern Glassmorphism & Responsive Grid Architectures  
 - **Focus Areas:** Full-Stack Web Applications, Complex Algorithmic Engines, Browser-Based Utilities, DSA  
-- **Cloud & Tools:** Vercel (CI/CD & Serverless Deployment), Git, GitHub  
+- **Cloud & Tools:** Git, GitHub Pages, Vercel (Serverless Deployments)  
 
 ---
 
 ## 📌 What I'm Currently Doing
-- Scaling and optimizing my 11-app **Enterprise Astrological Suite** on Vercel  
+- Scaling and optimizing my **Enterprise Astrological Suite** UI and computational APIs  
 - Solving complex Data Structures & Algorithms problems in Java on LeetCode  
-- Building high-performance, zero-latency browser utilities and backend APIs  
+- Building high-performance, zero-latency browser utilities  
 
 ---
 
