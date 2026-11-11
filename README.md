@@ -10,17 +10,18 @@ Beyond core fundamentals, I independently architect and deploy commercial-grade,
 
 ## 🚀 Flagship Production Ecosystem: Enterprise Astrological Suite
 
-Architected, engineered, and deployed a comprehensive, **11-application enterprise computational suite**. Built to commercial industry standards, this ecosystem processes complex astronomical ephemeris data, multi-layered divisional algorithms, and real-time transit geometry directly in the browser. 
+Architected, engineered, and deployed a comprehensive, **11-application enterprise computational suite**. Built to commercial industry standards, this ecosystem processes complex astronomical ephemeris data, multi-layered divisional algorithms, and real-time transit geometry directly in the browser.
 
-Instead of standalone repositories, I built a centralized, modern web portal to house all modules in one unified, high-performance interface.
+Instead of navigating standalone repositories, visit the centralized web portal housing all modules in one unified, high-performance interface:
 
-👉 <a href="https://donniedarsshan.github.io/Astrological-Suite/" target="_blank">**Explore the Enterprise Astrological Suite Live Portal**</a> *(Opens in new tab)*
+[![Launch Live Portal](https://img.shields.io/badge/Live_Portal-Launch_Astrological_Suite-082f49?style=for-the-badge&logo=vercel&logoColor=white)](https://donniedarsshan.github.io/Astrological-Suite/)  
+👉 [**Open Astrological Suite Portal** ↗](https://donniedarsshan.github.io/Astrological-Suite/) *(Use middle-click or `Ctrl`/`Cmd` + Click to open in a new tab)*
 
 **The portal includes 11 interconnected calculation engines:**
-* **Vedic Vargas & Cuspal Interlink:** Deep planetary strength analytics and high-precision sub-lord mapping.
-* **Parashari, Jaimini & KP Significators:** Dual-engine frameworks for traditional rules and Krishnamurti Paddhati star-lord computations.
-* **Nakshatra Nadi, Bhrigu Nandi Nadi & ALP:** Stellar integrations, exact transit prediction models, and progressed ascendant micro-timing.
-* **Transit & Synastry Engines:** Real-time Gochara bi-wheel superimposition, math vs. Jyotish age calculators, and automated Vivaha (marriage) compatibility matrices.
+- **Vedic Vargas & Cuspal Interlink:** Deep planetary strength analytics and high-precision sub-lord mapping.
+- **Parashari, Jaimini & KP Significators:** Dual-engine frameworks for traditional rules and Krishnamurti Paddhati star-lord computations.
+- **Nakshatra Nadi, Bhrigu Nandi Nadi & ALP:** Stellar integrations, exact transit prediction models, and progressed ascendant micro-timing.
+- **Transit & Synastry Engines:** Real-time Gochara bi-wheel superimposition, math vs. Jyotish age calculators, and automated Vivaha (marriage) compatibility matrices.
 
 ---
 
@@ -40,9 +41,9 @@ Instead of standalone repositories, I built a centralized, modern web portal to 
 ---
 
 ## 🔗 Profiles & Links
-- **GitHub:** [github.com/DonnieDarsshan](https://github.com/DonnieDarsshan)
-- **LeetCode:** [leetcode.com/u/DonnieDarsshan](https://leetcode.com/u/DonnieDarsshan/)
-- **LinkedIn:** [linkedin.com/in/darsshan-tn-775196252](https://www.linkedin.com/in/darsshan-tn-775196252/)
+- **GitHub:** [github.com/DonnieDarsshan](https://github.com/DonnieDarsshan)  
+- **LeetCode:** [leetcode.com/u/DonnieDarsshan](https://leetcode.com/u/DonnieDarsshan/)  
+- **LinkedIn:** [linkedin.com/in/darsshan-tn-775196252](https://www.linkedin.com/in/darsshan-tn-775196252/)  
 
 ---
 
